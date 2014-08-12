@@ -1,0 +1,4 @@
+Z:\Projects\Gi\FizzBuzz-Gitt\Libraries\FizzBuzz.DataTypes\bin\Debug\FizzBuzz.DataTypes.dll
+Z:\Projects\Gi\FizzBuzz-Gitt\Libraries\FizzBuzz.DataTypes\bin\Debug\FizzBuzz.DataTypes.pdb
+Z:\Projects\Gi\FizzBuzz-Gitt\Libraries\FizzBuzz.DataTypes\obj\Debug\FizzBuzz.DataTypes.dll
+Z:\Projects\Gi\FizzBuzz-Gitt\Libraries\FizzBuzz.DataTypes\obj\Debug\FizzBuzz.DataTypes.pdb
